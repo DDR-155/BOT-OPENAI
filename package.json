@@ -1,0 +1,21 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot with AI and More Features",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "OPEN AI AND DDR-505",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "openai": "^4.7.1",
+    "playwright": "^1.38.0",
+    "playwright-core": "^1.38.0",
+    "whatsapp-web.js": "^1.14.0",
+    "qrcode-terminal": "^0.12.0",
+    "prompt-sync": "^4.2.3",
+    "translate-google-api": "^1.0.0"
+  }
+}
